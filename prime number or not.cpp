@@ -7,7 +7,7 @@ int main(){
 	if(number<0){printf("%d is not a prime number",number);}else{
 	
 	
-	for(i=2;i<=number;i++){
+	for(i=2;i<number;i++){
 		
 		
 	
@@ -18,4 +18,4 @@ int main(){
 	
 	}else{printf("the %d is a prime number",number);}
 	return 0;
-}}
+y}}
